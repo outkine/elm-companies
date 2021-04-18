@@ -190,6 +190,9 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
   finances. Beyond our app, we work on many exciting projects of personal finance 
   management. A great deal of the front-end is written in elm.
 
+### Gaming
+* [Robot Rumble](https://robotrumble.org) ([Github](https://github.com/robot-rumble)) - an arena-based AI competition platform that supports robots in Python and Javascript. We use Elm for our GUIs, such as the GUI for viewing simulated robot battles.
+
 #### Healthcare
 
 * [Illuminate](https://www.goilluminate.com) ([Github](https://github.com/GoIlluminate)) -
